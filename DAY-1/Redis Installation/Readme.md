@@ -55,3 +55,6 @@ For Object/Hash
 - HGETALL key
 - HDEL key field
 - HEXISTS key field
+
+Also check this link :
+https://redis.com/blog/redis-on-windows-10/
