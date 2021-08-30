@@ -6,17 +6,17 @@ Redis Installation
 	- Install Ubuntu20.04 from Windows Store
 	- Open Ubuntu and setup name and password
 	- Run the following commands:
-		> sudo apt-get update
-		> sudo apt-get upgrade
-		> sudo apt-get install redis-server
-		> sudo service redis-server restart
-		> redis-cli
+		> sudo apt-get update <br>
+		> sudo apt-get upgrade <br>
+		> sudo apt-get install redis-server <br>
+		> sudo service redis-server restart <br>
+		> redis-cli <br>
 
 2) For Linux
 	- Run the commands:
-		> sudo apt-get install redis-server
-		> sudo service redis-server restart
-		> redis-cli
+		> sudo apt-get install redis-server <br>
+		> sudo service redis-server restart <br>
+		> redis-cli <br>
 
 -----------------------------------------------------------------------
 
@@ -55,3 +55,6 @@ For Object/Hash
 - HGETALL key
 - HDEL key field
 - HEXISTS key field
+
+Also check this link :
+https://redis.com/blog/redis-on-windows-10/
