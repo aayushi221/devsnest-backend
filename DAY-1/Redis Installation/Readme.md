@@ -56,5 +56,5 @@ For Object/Hash
 - HDEL key field
 - HEXISTS key field
 
-Also check this link :
+Also check this link:
 https://redis.com/blog/redis-on-windows-10/
