@@ -20,10 +20,10 @@ fs.rename("./folder_async/async_file.js", "./folder_async/async_renamed.js", (er
     console.log("file renamed");
 })
 
-fs.unlink("./folder_async/async_renamed.js", (err) => {
-    console.log("file deleted");
-})
+// fs.unlink("./folder_async/async_renamed.js", (err) => {
+//     console.log("file deleted");
+// })
 
-fs.rmdir("folder_async", (err) => {
-    console.log("folder deleted");
-})
+// fs.rmdir("folder_async", (err) => {
+//     console.log("folder deleted");
+// })
