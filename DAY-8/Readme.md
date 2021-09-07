@@ -18,3 +18,15 @@ app.get("/", (req,res,next) => {
 })
 
 check the get call on localhost:5000/?admin=true;
+
+express.use(express.static('public'))
+
+since, body parser is depricated, it is added ultimately to express
+app.use(express.urlencoded());
+app.use(bodyparser.json());
+
+path that you provide to the express.static function is relative to the directory from where you launch your node :
+So, 
+const path = require('path')
+app.use('/static', express.static(path.join(__dirname, 'public')))
+
