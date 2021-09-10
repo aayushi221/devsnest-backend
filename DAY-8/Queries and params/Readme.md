@@ -6,7 +6,7 @@ Get is stored in cache.
 Hence not used for passwords.
 
 
-Middleares mostly used for authentication and login e.g.
+Middlewares mostly used for authentication and login e.g.
 
 app.get("/", (req,res,next) => {
    if(req.query.admin === 'true'){
