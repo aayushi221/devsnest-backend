@@ -30,3 +30,4 @@ So,
 const path = require('path')
 app.use('/static', express.static(path.join(__dirname, 'public')))
 
+for more info, go through express documentations
