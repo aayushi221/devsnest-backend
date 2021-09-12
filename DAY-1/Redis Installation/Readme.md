@@ -29,8 +29,10 @@ USAGE
 - DEL key
 - FLUSHALL
 - EXISTS key
-- expire key time
+- expire key time  
 - setex key time value
+
+<!-- OTP: "jhdsuahdfdfna213342" -->
 	
 
 For Arrays
@@ -42,9 +44,10 @@ For Arrays
 - RPOP array
 
 
+
 For Sets
 
-- SADD myset value
+- SADD myset value 
 - SMEMBERS myset
 
 
@@ -58,3 +61,4 @@ For Object/Hash
 
 Also check this link:
 https://redis.com/blog/redis-on-windows-10/
+
