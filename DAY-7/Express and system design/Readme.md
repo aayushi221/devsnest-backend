@@ -1,4 +1,4 @@
-Notes:
+Some notes:
 
 //take care of security, edge cases and perfomance in backend always
 
