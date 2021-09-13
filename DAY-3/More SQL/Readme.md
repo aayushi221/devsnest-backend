@@ -1,6 +1,8 @@
 <!-- Reddis CLI kholne ka hoga to bas simple wsl mein reddis-cli kholne ka -->
 How to make a silly chat app in redis:
 
+Take a chill pill.
+
 STEP 1: OPEN 2 wsls
 
 2: type in redis-cli to check if it is working
