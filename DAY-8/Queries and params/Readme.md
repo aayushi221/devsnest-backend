@@ -2,8 +2,7 @@ Take aways of today's lecture:
 
 // app.use() to use a middleware before every api call
 
-Get is stored in cache.
-Hence not used for passwords.
+Get is stored in cache.Hence not used for passwords.
 
 
 Middlewares mostly used for authentication and login e.g.
