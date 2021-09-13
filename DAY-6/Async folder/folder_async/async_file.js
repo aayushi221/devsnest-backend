@@ -1,1 +1,1 @@
-imma type some shit here fineee.
+console.log(smth = 10);
